@@ -1,0 +1,4 @@
+杭州地域：dsw-registry-vpc.cn-hangzhou.cr.aliyuncs.com/cloud-dsw/eas-service:aigc-torch113-cu117-ubuntu22.04-v0.2.1_accelerated
+北京地域：dsw-registry-vpc.cn-beijing.cr.aliyuncs.com/cloud-dsw/eas-service:aigc-torch113-cu117-ubuntu22.04-v0.2.1_accelerated
+上海地域：dsw-registry-vpc.cn-shanghai.cr.aliyuncs.com/cloud-dsw/eas-service:aigc-torch113-cu117-ubuntu22.04-v0.2.1_accelerated
+深圳地域：dsw-registry-vpc.cn-shenzhen.cr.aliyuncs.com/cloud-dsw/eas-service:aigc-torch113-cu117-ubuntu22.04-v0.2.1_accelerated
